@@ -1,0 +1,8 @@
+.faqcircle {
+    height: 50px;
+    width: 50px;
+    background-color: #1a78b1;
+    border-radius: 50%;
+    display: inline-block;
+    color: white;
+}
